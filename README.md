@@ -1,4 +1,5 @@
 # Smart Home Security System
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
